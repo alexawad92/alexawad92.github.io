@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,300,400,700" rel="stylesheet">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="app.css">
+
+    <title>Ahmad Awad</title>
+  </head>
+
+  
+  <body>
+    <nav id="mainNavbar" class="navbar navbar-dark navbar-expand-md py-0 fixed-top">
+      <a class="navbar-brand" href="#">AWAD</a>
+      <button class="navbar-toggler" data-toggle="collapse" data-target="#navLinks" aria-label="Toggle Navbar">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse justify-content-end" id="navLinks">
+        <ul class="navbar-nav " id="mainLinks">
+          <li class="nav-item"><a href="https://www.facebook.com/ahmad.awad.102" class="nav-link"><i class="fab fa-facebook-f"></i></a></li>
+          <li class="nav-item"><a href="https://www.instagram.com/ahmad.awad.92/" class="nav-link"><i class="fab fa-instagram"></i></a></li>
+          <li class="nav-item"><a href="pdfs/Resume.pdf" class="nav-link" download><i class="fas fa-file-pdf"></i> Resume</a></li>
+        </ul>
+      </div>
+    </nav>
+    <section>
+      <div class="container-fluid px-0">
+        <div class="row align-items-center">
+          <div class="col-lg-6">
+              <div class="row justify-content-center align-items-center text-center ">
+                  <div class="col-10 col-lg-8 blurb mb-5 mb-md-0 ">
+                      <h2>About Me <i class="fas fa-hand-point-down d-none d-lg-inline display-4"></i></h2>
+                      <p class="lead">My name is Ahmad Awad and I am a full-time software engineer at Siemens Healthineers. I am passionate about writing code, 
+                        making things better and learning new tech. I have been with Siemens for 2 years and have been loving every minute of it. I graduated in 2017 with a bachelor’s degree in Computer Science from the 
+                        University of Tennessee.</p> 
+                  </div>
+                </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="row  justify-content-center align-items-center mx-4">
+              <div class="col-md-4"></div>
+                <img  src="imgs\Alex_Awad_14.jpg" class="img-fluid">
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="secondContent">
+        <div class="container-fluid px-0">
+          <div class="row align-items-center text-center align-items-center  mx-4">
+            <div class="col-md-6 order-2 order-md-1">
+                  <img  src="imgs\photo-Code.jfif" class="img-fluid">
+            </div>
+            <div class="col-md-6 order-1 order-md-2">
+              <div class="row justify-content-center">
+                <div class="col-10 col-lg-8 blurb mb-5 mb-md-0">
+                    <h2>Coding <i class="fas fa-laptop-code d-none d-lg-inline display-4"></i></h2>
+                    <p class="lead">I love writing code. I have worked with differnt programming languages such as C, C++, C#, Python.
+                      Currently I am learning web development and I have been enjoying it. Also, I have some experience with databases like MongoDB, and MySQL.
+                      I love to code because it allows me to create software that makes a difference in peoples’ lives. I enjoy 
+                      </p> 
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </section>
+      <section class="thirdContent">
+          <div class="container-fluid px-0">
+            <div class="row align-items-center text-center align-items-center">
+              
+              <div class="col-md-6">
+                <div class="row justify-content-center">
+                  <div class="col-10 col-lg-8 blurb mb-5 mb-md-0">
+                      <h2>Cooking <i class="fas fa-utensils d-none d-lg-inline display-4"></i></h2>
+                      <p class="lead">When I am not at work I like to cook Italian food. I am a decent cook, Not a chef.<br> Pizza, Calzone, and Pasta are my favourites to cook. 
+                        I cook from scratch, and bake from scratch.</p> 
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6" >
+                  <img  src="imgs\Cook.png" class="img-fluid" id="cook">
+            </div>
+  
+            </div>
+          </div>
+        </section>
+  
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+          <script>
+
+            $(function (){
+              $(document).scroll(function(){
+                var $nav= $("#mainNavbar");
+                $nav.toggleClass("scrolled", $(this).scrollTop() > $nav.height());
+                var $nav2 =$("#mainLinks");
+                $nav2.toggleClass("hi", $(this).scrollTop() > $nav.height());
+                console.log($nav2);
+              });
+            });
+          </script>
+  </body>
+</html>
